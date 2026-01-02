@@ -35,7 +35,7 @@ This repository is intended for **academic learning, portfolio demonstration, an
 
 - **EDA Tool**: Cadence Virtuoso (Analog Design Environment)
 - **Verification**: Cadence Assura (DRC & LVS)
-- **Simulation**: Cadence ADE / ViVA
+- **Simulation**: Cadence ADE
 - **Design Style**: Full-custom (transistor-level)
 - **Technology Node**: Foundry-specific PDK (configured locally)
 
@@ -139,9 +139,7 @@ Fabrication or redistribution using proprietary PDKs must comply with foundry an
 
 ## Author
 
-**[Your Name]**  
-Department of Electronics / VLSI  
-[University / Institution Name]
+**Dhanush Darpan Y**
 
 ---
 
