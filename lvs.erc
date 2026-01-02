@@ -1,0 +1,22 @@
+
+***** Begin Label Report *****
+
+ Label in cell 'cmos_inverter layout activity1':
+  info: Assign pin label "Vss" at (0.5575, 0.0300) to layer `metal1_conn'.
+  info: Assign pin label "Vin" at (0.0300, 0.8000) to layer `metal1_conn'.
+  info: Assign pin label "Vout" at (1.0850, 0.8000) to layer `metal1_conn'.
+  info: Assign pin label "Vdd" at (0.5575, 1.6350) to layer `metal1_conn'.
+
+***** End of Label Report *****
+
+
+***** Begin Label Report *****
+
+ Label in cell 'cmos_inverter layout activity1':
+  info: Assign pin label "Vss" at (0.5575, 0.0300) to layer `metal1_conn'.
+  info: Assign pin label "Vin" at (0.0300, 0.8000) to layer `metal1_conn'.
+  info: Assign pin label "Vout" at (1.0850, 0.8000) to layer `metal1_conn'.
+  info: Assign pin label "Vdd" at (0.5575, 1.6350) to layer `metal1_conn'.
+
+***** End of Label Report *****
+

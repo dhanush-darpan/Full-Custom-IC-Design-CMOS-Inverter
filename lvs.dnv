@@ -1,0 +1,8 @@
+vuiLVSdebugRunInfo = list( nil
+   'layoutLibrary "activity1"
+   'layoutCell "cmos_inverter"
+   'layoutView "layout"
+   'schematicLibrary "activity1"
+   'schematicCell "cmos_inverter"
+   'schematicView "schematic"
+)

@@ -1,0 +1,123 @@
+# ==================================================
+# Cadence Virtuoso / Analog Design Environment
+# ==================================================
+
+# Cadence user/session data
+.cadence/
+cdsinfo.tag
+cds.lib
+hdl.var
+*.cdslck
+
+# Virtuoso cellview lock & temp files
+*.lock
+*.lck
+*.tmp
+*.log
+
+# ==================================================
+# Assura / DRC / LVS / Extraction
+# ==================================================
+
+.assura*
+.assura/
+DRC/
+LVS/
+PEX/
+svdb/
+av.db/
+*.err
+*.rpt
+
+# ==================================================
+# Simulation & ADE Data
+# ==================================================
+
+simulation/
+psf/
+psf*/ 
+spectre/
+*.raw
+*.ic
+*.tran
+*.ac
+*.dc
+*.noise
+*.stb
+*.measure
+*.mt*
+*.sim
+
+# ADE state & history
+.adestates
+.history
+*.state
+
+# ==================================================
+# PDK / Technology Files
+# ==================================================
+
+tech/
+PDK/
+foundry/
+technology/
+models/
+*.mdl
+*.lib
+
+# ==================================================
+# Stream / Export / GDS / LEF
+# ==================================================
+
+*.gds
+*.oas
+*.lef
+*.def
+*.mag
+*.sp
+*.spi
+xStrmOut*
+streamOut*
+
+# ==================================================
+# Backup & Autosave Files
+# ==================================================
+
+*.bak
+*.bak.*
+*.old
+*.save
+*~
+# Cadence auto backups
+*_bak/
+*_backup/
+
+# ==================================================
+# ZIP / Archive Files (tool-generated)
+# ==================================================
+
+*.zip
+*.tar
+*.tar.gz
+*.7z
+
+# ==================================================
+# OS / Editor Artifacts
+# ==================================================
+
+.DS_Store
+Thumbs.db
+desktop.ini
+*.swp
+*.swo
+.vscode/
+.idea/
+
+# ==================================================
+# Reports
+# ==================================================
+
+*.csv
+*.txt
+*.out
+*.dat

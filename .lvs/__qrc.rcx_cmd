@@ -1,0 +1,48 @@
+avParameters(
+	?cellName "cmos_inverter"
+	?viewName "layout"
+	?inputLayout ( "DFII" "activity1" )
+	?runName "lvs"
+	?workingDirectory "/home/iiitdmk/Desktop/Day2/analog"
+	?techRuleSet ( "rcx_typical" )
+	?techLib "/home/install/FOUNDRY/analog/45nm/assura_tech.lib"
+	?technology "gpdk045_av"
+
+)
+rcxParameters(
+	?capCouplingFactor 1.0
+	?capGround "Vss"
+	?mFactorR "infinite"
+	?arrayViasSpacing "auto"
+	?macroCellsType "default"
+	?maxFractureLength "infinite"
+	?fractureLengthUnits "MICRONS"
+	?maxMergedViaSize "auto"
+	?netNameSpace "layout"
+	?mergeParallelR nil
+	?minR 0.001
+	?lvsSource "assura"
+	?capacitor "pcapacitor"
+	?capPropName "c"
+	?checkCellView nil
+	?capModels "no"
+	?parasiticCapModels "yes"
+	?parasiticResModels "comment"
+	?resModels "no"
+	?resistor "presistor"
+	?resPropName "r"
+	?outputFormat "dfii"
+	?lvsExtractedCellView nil
+	?extractedView "av_extracted"
+	?runName "lvs"
+	?tempdir "/home/iiitdmk/Desktop/Day2/analog/lvs/rcx_temp"
+	?rcxSetupDir ( "/home/install/FOUNDRY/analog/45nm/./assura/../qrc/typical" )
+	?temperature ( 25.0 )
+	?type "full"
+	?extract "both"
+	?capExtractMode "decoupled"
+
+)
+(avRCX)
+
+
