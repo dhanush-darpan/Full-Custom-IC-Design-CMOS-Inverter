@@ -47,18 +47,18 @@ This repository is intended for **academic learning, portfolio demonstration, an
 
 Analog - full custom design/
 │
-├── Inverter/
-│ ├── .cadence/ # Cadence user/session data (auto-generated)
-│ ├── .assura* # Assura DRC/LVS run data
-│ ├── layout/ # Full-custom inverter layout
-│ ├── schematic/ # Transistor-level schematic
-│ ├── symbol/ # Symbol view
-│ ├── extracted/ # Extracted view (post-layout)
-│ ├── simulation/ # ADE simulation states and results
-│ ├── xStrmOut_cellMap.txt # Stream-out mapping file
+├─ Inverter/
+│ ├─.cadence/ # Cadence user/session data (auto-generated)
+│ ├─ .assura* # Assura DRC/LVS run data
+│ ├─ layout/ # Full-custom inverter layout
+│ ├─ schematic/ # Transistor-level schematic
+│ ├─ symbol/ # Symbol view
+│ ├─ extracted/ # Extracted view (post-layout)
+│ ├─ simulation/ # ADE simulation states and results
+│ ├─ xStrmOut_cellMap.txt # Stream-out mapping file
 │
-├── Snaps/
-│ ├── Screenshot*.png # Schematic, layout, DRC/LVS, and waveform snapshots
+├─ Snaps/
+│ ├─ Screenshot*.png # Schematic, layout, DRC/LVS, and waveform snapshots
 │
 
 
